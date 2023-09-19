@@ -18,6 +18,8 @@ $result = $conn->query($sql);
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="cart.php">Shopping Cart</a></li>
+            <li><a href="contact.php">Contact</a></li>
+            <li><a href="purchase.php">Purchase</a></li>
         </ul>
     </nav>
     <h1>Welcome to our Online Store</h1>
